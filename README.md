@@ -1,12 +1,6 @@
-# 👾 Welcome to Pixelmate's GitHub Profile!
-
-An aspiring robotics engineer and digital creator.
-
----
-
 ## 🎮 About Me
 
-I love to explore the realms of robotics, game development and live streaming!
+Let's explore the realms of robotics, game development and live streaming!
 
 - 🌟 **Interests:** Robotics, Game Development, Streaming, Community Building
 - 🎤 **Streaming on:** [Twitch](https://www.twitch.tv/PixelmateLive) 
@@ -16,8 +10,6 @@ I love to explore the realms of robotics, game development and live streaming!
 
 ## 🔧 Technologies I Use
 
-I enjoy working with various technologies, including:
-
 - **Languages:** Python, Java
 - **Platforms:** Unity, Unreal Engine, Godot
 - **Tools:** Git, Docker
@@ -26,7 +18,6 @@ I enjoy working with various technologies, including:
 
 ## 📂 My Projects
 
-Here are some of the projects I'm proud of:
 - w.i.p.
   
 Check them out and feel free to contribute!
