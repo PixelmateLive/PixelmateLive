@@ -23,9 +23,3 @@ Let's explore the realms of robotics, game development and live streaming!
 - w.i.p.
   
 Check them out and feel free to contribute!
-
----
-
-## 📫 Get In Touch
-
-If you want to chat or collaborate, please reach out!
