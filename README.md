@@ -2,6 +2,28 @@
 
 NOTE TO SELF: To-Do-List for new GitHub profile design, see my bookmarks for other profiles.
 
+
+A GitHub profile should include:
+
+
+short introduction of yourself
+
+some statistics 
+
+images in brief form providing sufficient data about your topics
+
+your knowledge
+
+your preferences
+
+pins to some of your github repos 
+
+using <details> section which creates a widget that can be opened and closed by the user
+
+
+---
+
+
 Stoat Self-Hosted
 
   [![Stars](https://img.shields.io/github/stars/stoatchat/self-hosted?style=flat-square&logoColor=white)](https://github.com/obsproject/obs-studio/stargazers)
