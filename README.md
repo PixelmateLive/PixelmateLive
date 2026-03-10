@@ -86,9 +86,10 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 Let's explore the realms of robotics, game development and live streaming!
 
-- 🎤 **Streaming on:** [Twitch](https://www.twitch.tv/PixelmateLive) 
-- 👯 **Community Building on**: [Discord](https://discord.gg/8ujpSprPcn)
-- 🐦 **Follow me on Twitter:** [@PixelmateLive](https://twitter.com/PixelmateLive)
+- 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
+- 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive) 
+- 👯 **Community building on** [Discord](https://discord.gg/8ujpSprPcn)
+- 🧑‍💻 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anhipham/)
 
 ---
 
