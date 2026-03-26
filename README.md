@@ -88,8 +88,8 @@ Let's explore the realms of robotics, game development and live streaming!
 
 - 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
 - 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive) 
-- 👯 **Community building on** [Discord](https://discord.gg/8ujpSprPcn)
 - 🧑‍💻 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anhipham/)
+- 👯 **Community building on** [Discord](https://discord.gg/8ujpSprPcn)
 
 ---
 
