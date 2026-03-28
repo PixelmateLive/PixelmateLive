@@ -101,8 +101,15 @@ Let's explore the realms of robotics, game development and live streaming!
 
 ---
 
-## 🌱 My Projects
+## 😸 The Best GitHub Repos
 
-- w.i.p.
+- I collected a bunch of public repos on GitHub and created customs lists → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
+- Repos may include FOSS, Self-Hosting, Live-Streaming, README, Inspirational Repos, etc.
+
+## 🌱 My Projects (w.i.p.)
+
+- Building my own website
+- Robotics and FPV drones
+- Live-streaming tools
   
-Check them out and feel free to contribute!
+→ Check them out and feel free to contribute!
