@@ -84,7 +84,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-Let's explore the realms of robotics and live-streaming!
+Let's explore the realms of robotics and Live streaming!
 
 - 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
 - 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive) 
@@ -109,6 +109,6 @@ Let's explore the realms of robotics and live-streaming!
 
 - Building my website
 - Robotics and FPV drones
-- Coding tools and plugins for live-streaming
+- Coding tools and plugins for Live streaming
   
 → Check them out and feel free to contribute!
