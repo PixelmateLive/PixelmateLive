@@ -84,7 +84,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-Let's explore the realms of robotics, game development and live streaming!
+Let's explore the realms of robotics and live-streaming!
 
 - 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
 - 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive) 
@@ -93,10 +93,10 @@ Let's explore the realms of robotics, game development and live streaming!
 
 ---
 
-## 🔧 Technologies I Use
+## 🔧 Technologies I Use (w.i.p)
 
 - **Tools:** Git, Docker
-- **Platforms:** Unity, Unreal Engine, Godot
+- **Platforms:** Unreal Engine, Godot
 - **Programming Languages:** Python, Java
 
 ---
