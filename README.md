@@ -84,7 +84,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-Let's explore the realms of robotics and Live streaming!
+Let's explore the realms of Robotics and Live streaming!
 
 - 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
 - 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive) 
@@ -103,7 +103,7 @@ Let's explore the realms of robotics and Live streaming!
 
 ## 😸 Compilation of GitHub Repos
 
-- Categories such as FOSS, Self-Hosting, and Live-Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
+- Categories such as FOSS, Self-Hosting, and Live Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
 ## 🌱 My Projects (w.i.p.)
 
