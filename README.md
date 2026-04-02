@@ -80,6 +80,9 @@ Construction professional by day, and software enthusiast by night. Based in  Ph
 ### CONTACT ME:
 You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
 
+
+- **Platforms:** Godot, Unreal Engine
+
 -->
 
 ## 👋 About Me
@@ -96,14 +99,13 @@ Let's explore the realms of Robotics and Live streaming!
 ## 🔧 Technologies I Use (w.i.p)
 
 - **Tools:** Git, Docker
-- **Platforms:** Unreal Engine, Godot
-- **Programming Languages:** Python, Java
+- **Programming Languages:** Java, Python
 
 ---
 
-## ⭐ The GitHub Stars Compilation
+## ⭐ GitHub Stars Compilation
 
-- FOSS, Self-Hosting, Live Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
+- FOSS, Self-Hosting, Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
 ## 🌱 My Projects (w.i.p.)
 
