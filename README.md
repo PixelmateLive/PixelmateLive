@@ -101,9 +101,9 @@ Let's explore the realms of Robotics and Live streaming!
 
 ---
 
-## 😸 Compilation of GitHub Repos
+## ⭐ The GitHub Stars Compilation
 
-- Categories such as FOSS, Self-Hosting, and Live Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
+- FOSS, Self-Hosting, Live Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
 ## 🌱 My Projects (w.i.p.)
 
