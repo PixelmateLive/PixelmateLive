@@ -85,6 +85,12 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 -->
 
+## ⭐ GitHub Stars Compilation
+
+- FOSS, Self-Hosting, Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
+
+---
+
 ## 👋 About Me
 
 Let's explore the realms of Robotics and Live streaming!
@@ -102,10 +108,6 @@ Let's explore the realms of Robotics and Live streaming!
 - **Programming Languages:** Java, Python
 
 ---
-
-## ⭐ GitHub Stars Compilation
-
-- FOSS, Self-Hosting, Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
 ## 🌱 My Projects (w.i.p.)
 
