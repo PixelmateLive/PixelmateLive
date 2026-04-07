@@ -81,6 +81,12 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 - 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive)
 
+### 📈 My Roadmap (2025-2026)
+
+- 🟦 **Mischok Academy:** 8/12 months completed (Focus: Java/Spring Architecture)
+- 🎓 **CS50x:** [██████░░░░] 60% (Harvard Introduction to CS)
+- 🤖 **RoboTUM:** Active in hardware-software integration workshops
+
 -->
 
 <p align="center"> ─────────── 🤖 ─────────── </p>
@@ -108,10 +114,12 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 
 <br />
 
-## 🔧 Tech Stack & Ecosystem
+### 🔧 Tech Stack & Ecosystem
 
-- **Languages:** Java (Core), SQL, Python (Scripting/Robotics), Shell Scripting
-- **Architecture & DevOps:** Linux (Daily Driver), Git, UML, Docker
+- **Languages:** `Java` (Spring Boot), `SQL`, `Python`, `Shell Scripting`
+- **Environment:** `Linux` (Daily Driver), `Git`, `Docker`, `AWS`
+- **Architecture:** `UML`, `OOP Design Patterns`, `Clean Code`
+- **Security:** `OWASP Standards`, `CI/CD Workflows`
 - **Communities:** Active at **RoboTUM** (TUM Robotics), **CCC Hamburg**, and **OWASP**
 
 <br />
@@ -129,7 +137,6 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 - 🧑‍💻 **LinkedIn:** [anhipham](https://www.linkedin.com/in/anhipham/)
 - 🐦 **Twitter:** [@PixelmateLive](https://twitter.com/PixelmateLive)
 - 🐽 **Discord:** [Planet Pixel](https://discord.gg/8ujpSprPcn)
-
 
 <br />
 
