@@ -95,7 +95,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-Digital Media Professional transitioning into Software Engineering | IT Specialist in Training (IHK).
+Digital Media Professional transitioning into Software Engineering | IT Specialist in Training (IHK Certified).
 
 With a decade in digital media — producing content for broadcasters like ARD and SAT.1 and large-scale event production — I am now pivoting my technical foundation into Software Engineering (Java/SQL).
 
