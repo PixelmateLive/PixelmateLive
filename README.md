@@ -93,31 +93,46 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ---
 
-## 👋 About Me
+# 👋 I'm Pixelmate
 
-Digital Media Professional transitioning into Software Engineering | IT Specialist in Training (IHK Certified).
+**Production-Hardened Mindset ➔ Software Engineering | IT Specialist in Training (IHK)**
 
-With a decade in digital media — producing content for broadcasters like ARD and SAT.1 and large-scale event production — I am now pivoting my technical foundation into Software Engineering (Java/SQL).
-
-🤖 Future Focus: My passion lies in Robotics, Linux environments, and Open Source (FOSS). I am driven by the challenge of making technical systems more intuitive, secure, and accessible through transparent, high-performance software.
-
-- 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
-- 🧑‍💻 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anhipham/)
-- 👯 **Community building on** [Discord](https://discord.gg/8ujpSprPcn)
+With a decade of experience in high-pressure technical media production—from corporate films to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
 
 ---
 
-## 🔧 Technologies I Use (w.i.p)
+## 🤖 Future Focus & Philosophy
+My passion lies at the intersection of hardware and software. I’m driven by making technical systems more secure, transparent, and high-performing through **FOSS** and **Linux-native environments**.
 
-- **Tools:** Git, Docker
-- **Programming Languages:** Java, Python
+- 🛠️ **Current Focus:** Full-stack development (Java/Spring Boot) & System Architecture (UML/SQL)
+- ⚙️ **The Bridge:** Applying clean data lifecycles and methodical troubleshooting from my media engineering past to modern backend systems
+- 🛡️ **Security:** Integrating OWASP standards and CI/CD workflows into every build
 
 ---
 
-## 🌱 My Projects (w.i.p.)
+## 🔧 Tech Stack & Ecosystem
 
-- Building my website
-- Robotics and FPV drones
-- Coding tools and plugins for Live streaming
-  
-→ Check them out and feel free to contribute!
+- **Languages:** Java (Core), SQL, Python (Scripting/Robotics), Shell Scripting
+- **Architecture & DevOps:** Linux (Daily Driver), Git, UML, Docker
+- **Communities:** Active at **RoboTUM** (TUM Robotics), **CCC Hamburg**, and **OWASP**
+
+---
+
+## 🌱 Active Projects
+
+- 🛰️ **Robotics & FPV:** Exploring hardware-software interaction and autonomous flight
+- 📺 **Streaming & FOSS:** Developing tools and plugins to bridge the gap between live production and open-source transparency
+- 🌐 **[Project Name]:** [Short description of your current main repo/website]
+
+---
+
+## 📫 Connect with me
+
+- 🧑‍💻 **LinkedIn:** [anhipham](https://www.linkedin.com/in/anhipham/) — *Seeking a one-year internship starting Sept 2026 (Augsburg/Munich)*
+- 🐦 **Twitter:** [@PixelmateLive](https://twitter.com/PixelmateLive)
+- ⭐ **Curated FOSS & Self-Hosting Repos:** [My Stars](https://github.com/PixelmateLive?tab=stars)
+
+---
+
+> "I treat a logic error in a backend system with the same methodical focus I used when managing high-volume storage networks and live signal paths on-set."
+
