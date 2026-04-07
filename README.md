@@ -97,7 +97,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 Digital Media Professional transitioning into Software Engineering | IT Specialist in Training (IHK).
 
-With a decade in digital media — covering technical projects for broadcasters like ARD and SAT.1 and large-scale event production — I am now pivoting my technical foundation into Software Engineering (Java/SQL).
+With a decade in digital media — producing content for broadcasters like ARD and SAT.1 and large-scale event production — I am now pivoting my technical foundation into Software Engineering (Java/SQL).
 
 🤖 Future Focus: My passion lies in Robotics, Linux environments, and Open Source (FOSS). I am driven by the challenge of making technical systems more intuitive, secure, and accessible through transparent, high-performance software.
 
