@@ -2,7 +2,6 @@
 
 NOTE TO SELF: To-Do-List for new GitHub profile design, see my bookmarks for other profiles.
 
-
 A GitHub profile should include:
 
 
@@ -20,9 +19,7 @@ pins to some of your github repos
 
 using <details> section which creates a widget that can be opened and closed by the user
 
-
 ---
-
 
 Stoat Self-Hosted
 
@@ -80,7 +77,6 @@ Construction professional by day, and software enthusiast by night. Based in  Ph
 ### CONTACT ME:
 You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
 
-
 - **Platforms:** Godot, Unreal Engine
 
 - 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive)
@@ -93,7 +89,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 - FOSS, Self-Hosting, Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
-a
+<br />
 
 ## 👋 I'm Pixelmate
 
@@ -130,9 +126,10 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 
 ## 📫 Connect with me
 
-- 🧑‍💻 **LinkedIn:** [anhipham](https://www.linkedin.com/in/anhipham/) — *Seeking a one-year internship starting Sept 2026 (Augsburg/Munich)*
+- 🧑‍💻 **LinkedIn:** [anhipham](https://www.linkedin.com/in/anhipham/)
 - 🐦 **Twitter:** [@PixelmateLive](https://twitter.com/PixelmateLive)
-- ⭐ **Curated FOSS & Self-Hosting Repos:** [My Stars](https://github.com/PixelmateLive?tab=stars)
+- 🐽 **Discord:** [Planet Pixel](https://discord.gg/8ujpSprPcn)
+
 
 <br />
 
