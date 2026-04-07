@@ -87,28 +87,30 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 -->
 
+<p align="center"> ─────────── 🤖 ─────────── </p>
+
 ## ⭐ GitHub Stars Compilation
 
 - FOSS, Self-Hosting, Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
----
+a
 
-# 👋 I'm Pixelmate
+## 👋 I'm Pixelmate
 
 **Production-Hardened Mindset ➔ Software Engineering | IT Specialist in Training (IHK)**
 
 With a decade of experience in high-pressure technical media production—from corporate films to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
 
----
+<br />
 
 ## 🤖 Future Focus & Philosophy
 My passion lies at the intersection of hardware and software. I’m driven by making technical systems more secure, transparent, and high-performing through **FOSS** and **Linux-native environments**.
 
 - 🛠️ **Current Focus:** Full-stack development (Java/Spring Boot) & System Architecture (UML/SQL)
-- ⚙️ **The Bridge:** Applying clean data lifecycles and methodical troubleshooting from my media engineering past to modern backend systems
+- ⚙️ **The Bridge:** Methodical troubleshooting from media engineering applied to backend architecture
 - 🛡️ **Security:** Integrating OWASP standards and CI/CD workflows into every build
 
----
+<br />
 
 ## 🔧 Tech Stack & Ecosystem
 
@@ -116,15 +118,15 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 - **Architecture & DevOps:** Linux (Daily Driver), Git, UML, Docker
 - **Communities:** Active at **RoboTUM** (TUM Robotics), **CCC Hamburg**, and **OWASP**
 
----
+<br />
 
-## 🌱 Active Projects
+## 🌱 Future Projects
 
 - 🛰️ **Robotics & FPV:** Exploring hardware-software interaction and autonomous flight
 - 📺 **Streaming & FOSS:** Developing tools and plugins to bridge the gap between live production and open-source transparency
-- 🌐 **[Project Name]:** [Short description of your current main repo/website]
+- 🌐 **Website:** [Building my own website → coming soon]
 
----
+<br />
 
 ## 📫 Connect with me
 
@@ -132,7 +134,8 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 - 🐦 **Twitter:** [@PixelmateLive](https://twitter.com/PixelmateLive)
 - ⭐ **Curated FOSS & Self-Hosting Repos:** [My Stars](https://github.com/PixelmateLive?tab=stars)
 
----
+<br />
 
-> "I treat a logic error in a backend system with the same methodical focus I used when managing high-volume storage networks and live signal paths on-set."
+> "I apply the same 'zero-downtime' discipline to backend architecture that I once maintained during live national broadcasts."
 
+<p align="center"> ─────────── 🤖 ─────────── </p>
