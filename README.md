@@ -83,6 +83,8 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 - **Platforms:** Godot, Unreal Engine
 
+- 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive)
+
 -->
 
 ## ⭐ GitHub Stars Compilation
@@ -100,7 +102,6 @@ With a decade in digital media — covering technical projects for broadcasters 
 🤖 Future Focus: My passion lies in Robotics, Linux environments, and Open Source (FOSS). I am driven by the challenge of making technical systems more intuitive, secure, and accessible through transparent, high-performance software.
 
 - 🐦 **Follow me on** [Twitter](https://twitter.com/PixelmateLive)
-- 🎤 **Live-streaming on** [Twitch](https://www.twitch.tv/PixelmateLive) 
 - 🧑‍💻 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/anhipham/)
 - 👯 **Community building on** [Discord](https://discord.gg/8ujpSprPcn)
 
