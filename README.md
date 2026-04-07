@@ -95,7 +95,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 **Production-Hardened Mindset ➔ Software Engineering | IT Specialist in Training (IHK)**
 
-With a decade of experience in high-pressure technical media production—from corporate films to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
+With a decade of experience in high-pressure technical media production — from corporate films to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
 
 <br />
 
@@ -120,7 +120,7 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 
 - 🛰️ **Robotics & FPV:** Exploring hardware-software interaction and autonomous flight
 - 📺 **Streaming & FOSS:** Developing tools and plugins to bridge the gap between live production and open-source transparency
-- 🌐 **Website:** [Building my own website → coming soon]
+- 🌐 **Personal Website:** [coming soon]
 
 <br />
 
