@@ -127,7 +127,7 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 ## 🌱 Future Projects
 
 - 🛰️ **Robotics & FPV:** Exploring hardware-software interaction and autonomous flight
-- 📺 **Streaming & FOSS:** Developing tools and plugins to bridge the gap between live production and open-source transparency
+- 📺 **Streaming & FOSS:** Developing tools / plugins to bridge the gap between live production and open-source transparency
 - 🌐 **Personal Website:** [coming soon]
 
 <br />
