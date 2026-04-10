@@ -120,7 +120,7 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 - **Environment:** `Linux`, `Git`, `Docker`, `AWS`
 - **Architecture:** `UML`, `OOP Design Patterns`, `Clean Code`
 - **Security:** `OWASP Standards`, `CI/CD Workflows`
-- **Communities:** Active at **RoboTUM** (Robotics TU Munich), **CCC Hamburg**, **OWASP**, **Web&Wine Augsburg**, **OpenLab Augsburg e.V.**
+- **Communities:** Active at **RoboTUM**, **CCC Hamburg**, **OWASP**, **Web&Wine Augsburg**, **OpenLab Augsburg e.V.**
 
 <br />
 
