@@ -116,11 +116,11 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 
 ### 🔧 Tech Stack & Ecosystem
 
-- **Languages:** `Java` (Spring Boot), `SQL`, `Python`, `Shell Scripting`
-- **Environment:** `Linux` (Daily Driver), `Git`, `Docker`, `AWS`
+- **Languages:** `Java`, `SQL`, `Python`, `Shell Scripting`
+- **Environment:** `Linux`, `Git`, `Docker`, `AWS`
 - **Architecture:** `UML`, `OOP Design Patterns`, `Clean Code`
 - **Security:** `OWASP Standards`, `CI/CD Workflows`
-- **Communities:** Active at **RoboTUM** (TUM Robotics), **CCC Hamburg**, and **OWASP**
+- **Communities:** Active at **RoboTUM** (Robotics TU Munich), **CCC Hamburg**, **OWASP**, **Web&Wine Augsburg**, **OpenLab Augsburg e.V.**
 
 <br />
 
