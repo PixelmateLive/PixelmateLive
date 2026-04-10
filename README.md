@@ -99,7 +99,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 I'm Pixelmate
 
-**Production-Hardened Mindset ➔ Software Engineering | IT Specialist in Training (IHK)**
+**Production-Hardened Mindset ➔ Software Engineering in Training (IHK Certified)**
 
 With a decade of experience in high-pressure technical media production — from corporate films to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
 
