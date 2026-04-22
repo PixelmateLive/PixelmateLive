@@ -93,13 +93,13 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## ⭐ GitHub Stars Compilation
 
-- FOSS, Self-Hosting, Streaming → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
+- FOSS, Self-Hosting, etc. → [GitHub Repos](https://github.com/PixelmateLive?tab=stars)
 
 <br />
 
 ## 👋 I'm Pixelmate
 
-**Production-Hardened Mindset ➔ Software Engineering in Training (IHK Certified)**
+**Production-Hardened Mindset ➔ Software Engineer in Training**
 
 With a decade of experience in high-pressure technical media production — from corporate film to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
 
