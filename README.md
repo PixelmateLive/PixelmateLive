@@ -97,7 +97,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 <br />
 
-## 👋 I'm Pixelmate
+## 👋 About Me
 
 **Production-Hardened Mindset ➔ Software Engineer in Training**
 
