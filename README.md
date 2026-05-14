@@ -106,7 +106,7 @@ With a decade of experience in high-pressure technical media production — from
 <br />
 
 ## 🤖 Future Focus & Philosophy
-My passion lies at the intersection of hardware and software. I’m driven by making technical systems more secure, transparent, and high-performing through **FOSS** and **Linux-native environments**.
+I’m driven by making technical systems more secure and transparent through **FOSS** and **Linux-native environments**.
 
 - 🛠️ **Current Focus:** Full-stack development (Java/Spring Boot) & System Architecture (UML/SQL)
 - ⚙️ **The Bridge:** Methodical troubleshooting from media engineering applied to backend architecture
@@ -120,7 +120,7 @@ My passion lies at the intersection of hardware and software. I’m driven by ma
 - **Environment:** `Linux`, `Git`, `Docker`, `AWS`
 - **Architecture:** `UML`, `OOP Design Patterns`, `Clean Code`
 - **Security:** `OWASP Standards`, `CI/CD Workflows`
-- **Communities:** Active at **RoboTUM**, **CCC Hamburg**, **OWASP**, **Web&Wine Augsburg**, **OpenLab Augsburg e.V.**
+- **Communities:** Active at AUXSPACE e.V., OWASP, CCC Hamburg, and many more. 
 
 <br />
 
