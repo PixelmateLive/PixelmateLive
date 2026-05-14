@@ -101,7 +101,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 **Production-Hardened Mindset ➔ Software Engineer in Training**
 
-With a decade of experience in high-pressure technical media production — from corporate film to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
+With a decade of experience in technical media production — from corporate film to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
 
 <br />
 
