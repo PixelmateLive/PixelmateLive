@@ -140,6 +140,6 @@ I’m driven by making technical systems more secure and transparent through **F
 
 <br />
 
-> "I apply the same 'zero-downtime' discipline to backend architecture that I once maintained during live national broadcasts."
+> "I apply the same 'zero-downtime' discipline to backend architecture that I once maintained during national broadcasts."
 
 <p align="center"> ─────────── 🤖 ─────────── </p>
