@@ -97,7 +97,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 <br />
 
-# About Me! 👋
+## 👋 About Me
 
 🚀 **Software Engineering Intern at the German Aerospace Center (DLR)** | **FOSS & Robotics Enthusiast**
 
