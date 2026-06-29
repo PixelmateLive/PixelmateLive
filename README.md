@@ -99,25 +99,25 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-🚀 **Software Engineering Intern at the German Aerospace Center (DLR)** | **FOSS & Robotics Enthusiast**
+🚀 **Software Engineering Intern at the ...<!-- German Aerospace Center (DLR)** --> | **FOSS & Robotics Enthusiast**
 
 Currently completing a 2-year state-certified vocational retraining program as a Software Engineer. With a decade of professional experience in technical digital media production, I am now pivoting my foundation into robust software architectures, embedded systems, and open-source infrastructure.
 
 <br />
 
 ### 🌌 Current Focus & Milestones
-- 🛠️ **Upcoming Internship:** Joining the **German Aerospace Center (DLR)** in September 2026 as a Software Engineering Intern, contributing to the open-source data management platform **"shepard"**.
-- 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, currently participating in the architecture and requirements phase of a modular autonomous Rover project from scratch.
-- 💡 **Community & Sovereignty:** Enthusiast for Linux & Free and Open-Source Software (FOSS). Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups.
+- 🛠️ **Upcoming Internship:** Joining the ...<!-- **German Aerospace Center (DLR)** --> in September 2026 as a Software Engineering Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
+- 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, currently participating in the architecture and requirements phase of a modular autonomous Rover project from scratch
+- 💡 **Community & Sovereignty:** Enthusiast for Linux & Free and Open-Source Software (FOSS). Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups
 
 <br />
 
 ### 🛠️ Tech Stack & Skills
 
 - **Core Development:** Java (Spring Boot), SQL, and transitioning into Python / C++
-- **DevOps & Infrastructure:** Linux (Ubuntu/Shell), Docker, AWS, Terraform, Git, CI/CD
+- **DevOps & Infrastructure:** Linux (Ubuntu/Shell), Docker, AWS, Terraform, Git
 - **System Modeling:** Unified Modeling Language (UML), Business Process Analysis
-- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, and Real-Time Troubleshooting under pressure
+- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, and Real-Time Troubleshooting
 
 <br />
 
