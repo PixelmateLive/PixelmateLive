@@ -1,22 +1,14 @@
 <!-- 
 
 NOTE TO SELF: To-Do-List for new GitHub profile design, see my bookmarks for other profiles.
-
 A GitHub profile should include:
 
-
 short introduction of yourself
-
 some statistics 
-
 images in brief form providing sufficient data about your topics
-
 your knowledge
-
 your preferences
-
 pins to some of your github repos 
-
 using <details> section which creates a widget that can be opened and closed by the user
 
 ---
@@ -43,11 +35,8 @@ Construction professional by day, and software enthusiast by night. Based in  Ph
 - Developing tools to optimize construction cost estimation
 - Optimizing historical project cost archival and analysis for data-driven insights
 - Delivering cost data engagement using modern vizualization tools
-
   
 ## Languages & Technologies
-
-
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -106,9 +95,9 @@ Currently completing a 2-year state-certified vocational retraining program as a
 <br />
 
 ### 🌌 Current Focus & Milestones
-- 🛠️ **Upcoming Internship:** Joining the ...<!-- **German Aerospace Center (DLR)** --> as a Software Engineering Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
-- 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, currently participating in the architecture and requirements phase of a modular autonomous Rover project from scratch
-- 💡 **Community & Sovereignty:** Enthusiast for Linux & Free and Open-Source Software (FOSS). Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups
+- 🛠️ **Internship:** Joining the ...<!-- **German Aerospace Center (DLR)** --> as a Software Engineering Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
+- 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, participating in the architecture and requirements phase of a modular autonomous Rover project from scratch
+- 💡 **Community & Sovereignty:** Enthusiast for Linux & FOSS. Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups
 
 <br />
 
@@ -117,12 +106,12 @@ Currently completing a 2-year state-certified vocational retraining program as a
 - **Core Development:** Java (Spring Boot), SQL, and transitioning into Python / C++
 - **DevOps & Infrastructure:** Linux (Ubuntu/Shell), Docker, AWS, Terraform, Git
 - **System Modeling:** Unified Modeling Language (UML), Business Process Analysis
-- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, and Real-Time Troubleshooting
+- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, and Troubleshooting
 
 <br />
 
 ### 📊 My Philosophy: Transparency & Clean Code
-I deeply believe in the power of open source and digital sovereignty. To bridge the gap between real-time problem solving and technical transparency, I am currently working on launch plans for **Live Streaming Coding Sessions** to showcase honest, visible execution of complex tasks.
+The power of open source and digital sovereignty: I am currently working on launch plans for **Live Streaming Coding Sessions** to showcase visible execution of complex tasks.
 
 <br />
 
