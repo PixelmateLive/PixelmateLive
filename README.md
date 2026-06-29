@@ -99,7 +99,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-🚀 **Software Engineering Intern at the ...<!-- German Aerospace Center (DLR)** --> | **FOSS & Robotics Enthusiast**
+🚀 **Software Engineering Intern at the ...<!-- German Aerospace Center (DLR) -->** | **FOSS & Robotics Enthusiast**
 
 Currently completing a 2-year state-certified vocational retraining program as a Software Engineer. With a decade of professional experience in technical digital media production, I am now pivoting my foundation into robust software architectures, embedded systems, and open-source infrastructure.
 
