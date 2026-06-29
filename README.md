@@ -89,7 +89,7 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 **Software Engineering Intern at ...<!-- the German Aerospace Center (DLR) -->** | **FOSS & Robotics Enthusiast**
 
-With a decade of professional experience in technical media production, I am now pivoting my foundation into software architectures, embedded systems, and open-source infrastructure. Currently completing a state-certified vocational degree as a Software Engineer.
+With a decade of professional experience in technical media production, I am now pivoting my foundation into software architectures, embedded systems, and open-source infrastructure.
 
 <br />
 
