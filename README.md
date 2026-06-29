@@ -97,38 +97,32 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 <br />
 
-## 👋 About Me
+# About Me! 👋
 
-**Production-Hardened Mindset ➔ Software Engineer in Training**
+🚀 **Software Engineering Intern at the German Aerospace Center (DLR)** | **FOSS & Robotics Enthusiast**
 
-With a decade of experience in technical media production — from corporate film to national television — I am now pivoting that "zero-downtime" mindset into **Software Engineering** and **Robotics**.
-
-<br />
-
-## 🤖 Future Focus & Philosophy
-I’m driven by making technical systems more secure and transparent through **FOSS** and **Linux-native environments**.
-
-- 🛠️ **Current Focus:** Full-stack development (Java/Spring Boot) & System Architecture (UML/SQL)
-- ⚙️ **The Bridge:** Methodical troubleshooting from media engineering applied to backend architecture
-- 🛡️ **Security:** Integrating OWASP standards and CI/CD workflows into every build
+Currently completing a 2-year state-certified vocational retraining program as a Software Engineer. With a decade of professional experience in technical digital media production, I am now pivoting my foundation into robust software architectures, embedded systems, and open-source infrastructure.
 
 <br />
 
-### 🔧 Tech Stack & Ecosystem
-
-- **Languages:** `Java`, `SQL`, `Python`, `Shell Scripting`
-- **Environment:** `Linux`, `Git`, `Docker`, `AWS`
-- **Architecture:** `UML`, `OOP Design Patterns`, `Clean Code`
-- **Security:** `OWASP Standards`, `CI/CD Workflows`
-- **Communities:** Active at AUXSPACE e.V., OWASP, CCC Hamburg, and many more. 
+### 🌌 Current Focus & Milestones
+- 🛠️ **Upcoming Internship:** Joining the **German Aerospace Center (DLR)** in September 2026 as a Software Engineering Intern, contributing to the open-source data management platform **"shepard"**.
+- 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, currently participating in the architecture and requirements phase of a modular autonomous Rover project from scratch.
+- 💡 **Community & Sovereignty:** Enthusiast for Linux & Free and Open-Source Software (FOSS). Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups.
 
 <br />
 
-## 🌱 Future Projects
+### 🛠️ Tech Stack & Skills
 
-- 🛰️ **Robotics & FPV:** Exploring hardware-software interaction and autonomous flight
-- 📺 **Streaming & FOSS:** Developing tools / plugins to combine live production and open-source transparency
-- 🌐 **Personal Website:** [coming soon]
+- **Core Development:** Java (Spring Boot), SQL, and transitioning into Python / C++
+- **DevOps & Infrastructure:** Linux (Ubuntu/Shell), Docker, AWS, Terraform, Git, CI/CD
+- **System Modeling:** Unified Modeling Language (UML), Business Process Analysis
+- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, and Real-Time Troubleshooting under pressure
+
+<br />
+
+### 📊 My Philosophy: Transparency & Clean Code
+I deeply believe in the power of open source and digital sovereignty. To bridge the gap between real-time problem solving and technical transparency, I am currently working on launch plans for **Live Streaming Coding Sessions** to showcase honest, visible execution of complex tasks.
 
 <br />
 
@@ -140,6 +134,6 @@ I’m driven by making technical systems more secure and transparent through **F
 
 <br />
 
-> "I apply the same 'zero-downtime' discipline to backend architecture that I once maintained during national broadcasts."
+> "The junior agility combined with the sovereignty of a decade of technical responsibility."
 
 <p align="center"> ─────────── 🤖 ─────────── </p>
