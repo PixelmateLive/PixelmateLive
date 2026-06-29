@@ -106,7 +106,7 @@ Currently completing a 2-year state-certified vocational retraining program as a
 <br />
 
 ### 🌌 Current Focus & Milestones
-- 🛠️ **Upcoming Internship:** Joining the ...<!-- **German Aerospace Center (DLR)** --> in September 2026 as a Software Engineering Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
+- 🛠️ **Upcoming Internship:** Joining the ...<!-- **German Aerospace Center (DLR)** --> as a Software Engineering Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
 - 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, currently participating in the architecture and requirements phase of a modular autonomous Rover project from scratch
 - 💡 **Community & Sovereignty:** Enthusiast for Linux & Free and Open-Source Software (FOSS). Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups
 
