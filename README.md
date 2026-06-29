@@ -87,30 +87,30 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-🚀 **Software Engineering Intern at the ...<!-- German Aerospace Center (DLR) -->** | **FOSS & Robotics Enthusiast**
+**Software Engineering Intern at ...<!-- the German Aerospace Center (DLR) -->** | **FOSS & Robotics Enthusiast**
 
-Currently completing a 2-year state-certified vocational retraining program as a Software Engineer. With a decade of professional experience in technical digital media production, I am now pivoting my foundation into robust software architectures, embedded systems, and open-source infrastructure.
+Currently completing a 2-year state-certified vocational retraining program as a Software Engineer. With a decade of professional experience in technical digital media production, I am now pivoting my foundation into software architectures, embedded systems, and open-source infrastructure.
 
 <br />
 
 ### 🌌 Current Focus & Milestones
-- 🛠️ **Software Engineering:** Joining the ...<!-- **German Aerospace Center (DLR)** --> as an Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
-- 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, participating in the software architecture of a modular autonomous Rover project from scratch
-- 💡 **Community & Sovereignty:** Enthusiast for Linux & FOSS. Regularly connecting with the community at the Chaos Computer Club, LUGA e.V., and regional Rust/Web meetups
+- **Software Engineering:** Contributing to the open-source data management platform ...<!-- **"shepard"** -->
+- **Community & Sovereignty:** Chaos Computer Club, LUGA e.V., and regional Rust/Web meetups
+- **Robotics:** Technical team member at **AUXSPACE e.V.**, building the software architecture of an autonomous Rover
 
 <br />
 
 ### 🛠️ Tech Stack & Skills
 
-- **Core Development:** Java (Spring Boot), SQL, and transitioning into Python / C++
+- **Core Development:** Java (Spring Boot), SQL, transitioning into Python / C++
 - **DevOps & Infrastructure:** Linux (Ubuntu/Shell), Docker, AWS, Terraform, Git
 - **System Modeling:** Unified Modeling Language (UML), Business Process Analysis
-- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, and Troubleshooting
+- **Core Strengths:** Technical Project Coordination, UI/UX Instincts, Troubleshooting
 
 <br />
 
 ### 📊 My Philosophy: Transparency & Clean Code
-The power of open source and digital sovereignty: I am currently working on launch plans for **Live Streaming Coding Sessions** to showcase visible execution of complex tasks.
+I am currently working on launch plans for **Live Streaming Coding Sessions** to showcase visible execution of complex tasks.
 
 <br />
 
