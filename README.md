@@ -77,7 +77,6 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 - 🤖 **RoboTUM:** Active in hardware-software integration workshops
 
 -->
-
 <p align="center"> ─────────── 🤖 ─────────── </p>
 
 ## ⭐ GitHub Stars Compilation
@@ -95,7 +94,7 @@ Currently completing a 2-year state-certified vocational retraining program as a
 <br />
 
 ### 🌌 Current Focus & Milestones
-- 🛠️ **Internship:** Joining the ...<!-- **German Aerospace Center (DLR)** --> as a Software Engineering Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
+- 🛠️ **Software Engineering:** Joining the ...<!-- **German Aerospace Center (DLR)** --> as an Intern, contributing to the open-source data management platform ...<!-- **"shepard"** -->
 - 🤖 **Robotics:** Active learner and technical team member at **AUXSPACE e.V.**, participating in the architecture and requirements phase of a modular autonomous Rover project from scratch
 - 💡 **Community & Sovereignty:** Enthusiast for Linux & FOSS. Regularly connecting with the community at the Chaos Computer Club (CCC), LUGA e.V., and regional Rust/Web meetups
 
