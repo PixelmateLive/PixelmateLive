@@ -87,14 +87,14 @@ You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https:
 
 ## 👋 About Me
 
-**Software Engineering Intern at ...<!-- the German Aerospace Center (DLR) -->** | **FOSS & Robotics Enthusiast**
+**Software Engineering Intern at the German Aerospace Center (DLR)** | **FOSS & Robotics Enthusiast**
 
 With a decade of professional experience in technical media production, I am now pivoting my foundation into software architectures, embedded systems, and open-source infrastructure.
 
 <br />
 
 ### 🌌 Current Focus & Milestones
-- **Software Engineering:** Contributing to the open-source data management platform ...<!-- **"shepard"** -->
+- **Software Engineering:** Contributing to the open-source data management platform **"shepard"**
 - **Community & Sovereignty:** Chaos Computer Club, LUGA e.V., and regional Rust/Web meetups
 - **Robotics:** Technical team member at **AUXSPACE e.V.**, building the software architecture of an autonomous Rover
 
