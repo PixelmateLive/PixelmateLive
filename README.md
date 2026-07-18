@@ -94,7 +94,7 @@ With a decade of professional experience in technical media production, I am now
 <br />
 
 ### 🌌 Current Focus & Milestones
-- **Software Engineering:** Contributing to the open-source data management platform **"shepard"**
+- **Software Engineering:** Contributing to the open-source data management platform [shepard](https://www.dlr.de/en/zlp/research-transfer/projects/projects-from-augsburg/englisch/shepard-storage-for-heterogeneous-product-and-research-data)
 - **Community & Sovereignty:** Chaos Computer Club, LUGA e.V., and regional Rust/Web meetups
 - **Robotics:** Technical team member at **AUXSPACE e.V.**, building the software architecture of an autonomous Rover
 
