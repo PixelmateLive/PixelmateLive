@@ -110,7 +110,7 @@ With a decade of professional experience in technical media production, I am now
 <br />
 
 ### 📊 My Philosophy: Transparency & Clean Code
-I am currently working on launch plans for **Live Streaming Coding Sessions** to showcase visible execution of complex tasks.
+Working on launch plans for **Live Streaming Coding Sessions** to showcase visible execution of complex tasks.
 
 <br />
 
